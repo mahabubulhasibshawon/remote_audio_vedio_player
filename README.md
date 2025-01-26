@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+## Screen Records
+https://github.com/user-attachments/assets/bbb940fb-3252-4bba-b0b7-5f9650037a82
+
+https://github.com/user-attachments/assets/ca9819f4-9a7e-418c-81cb-89c52c1a9077
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
